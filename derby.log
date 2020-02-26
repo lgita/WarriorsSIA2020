@@ -1,0 +1,18 @@
+Wed Feb 26 19:03:03 CET 2020 : Apache Derby Network Server - 10.10.2.0 - (1582446) démarré et prêt à accepter les connexions sur le port 1527
+----------------------------------------------------------------
+Wed Feb 26 19:03:04 CET 2020:
+Amorçage de Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446) : instance a816c00e-0170-82aa-8884-ffffca2a39b3 
+dans le répertoire de base de données C:\Users\tahri\WarriorsSIA2020\DBMutuelle avec le chargeur de classe sun.misc.Launcher$AppClassLoader@1d44bcfa
+Chargé de file:/C:/Program%20Files%20(x86)/glassfish-4.1.2/glassfish-4.1.2/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\Program Files (x86)\glassfish-4.1.2\glassfish-4.1.2\javadb
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\tahri\WarriorsSIA2020
+Chargeur de classe de la base de données démarré - derby.database.classpath = ''
+----------------------------------------------------------------
+Wed Feb 26 19:03:06 CET 2020:
+Fermeture de l'instance a816c00e-0170-82aa-8884-ffffca2a39b3 sur le répertoire de base de données C:\Users\tahri\WarriorsSIA2020\DBMutuelle avec le chargeur de classe sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Wed Feb 26 19:03:07 CET 2020 Thread[DRDAConnThread_3,5,main] (DATABASE = DBMutuelle), (DRDAID = {2}), Arrêt de la base de données 'DBMutuelle'.
